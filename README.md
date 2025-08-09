@@ -59,6 +59,7 @@ I’m open to remote roles, Onsite roles ,  frontend opportunities, and freelanc
 📫 **Email**: syedluqmaan.dev@gmail.com
 🌍 **Location**: Bangalore, India (Remote-ready)  
 🔗 **LinkedIn**: [linkedin.com/in/syedluqmaan](https://linkedin.com/in/syedluqmaan)
+💻 **Portfolio**: [syedluqmaan-portfolio.vercel.app](https://syedluqmaan-portfolio.vercel.app)  
 
 
  Personal Note
